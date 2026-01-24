@@ -1,0 +1,14 @@
+/home/gustavo/Gerenciador comandas/bin/Debug/net8.0/Gerenciador comandas
+/home/gustavo/Gerenciador comandas/bin/Debug/net8.0/Gerenciador comandas.deps.json
+/home/gustavo/Gerenciador comandas/bin/Debug/net8.0/Gerenciador comandas.runtimeconfig.json
+/home/gustavo/Gerenciador comandas/bin/Debug/net8.0/Gerenciador comandas.dll
+/home/gustavo/Gerenciador comandas/bin/Debug/net8.0/Gerenciador comandas.pdb
+/home/gustavo/Gerenciador comandas/obj/Debug/net8.0/Gerenciador comandas.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Gerenciador comandas/obj/Debug/net8.0/Gerenciador comandas.AssemblyInfoInputs.cache
+/home/gustavo/Gerenciador comandas/obj/Debug/net8.0/Gerenciador comandas.AssemblyInfo.cs
+/home/gustavo/Gerenciador comandas/obj/Debug/net8.0/Gerenciador comandas.csproj.CoreCompileInputs.cache
+/home/gustavo/Gerenciador comandas/obj/Debug/net8.0/Gerenciador comandas.dll
+/home/gustavo/Gerenciador comandas/obj/Debug/net8.0/refint/Gerenciador comandas.dll
+/home/gustavo/Gerenciador comandas/obj/Debug/net8.0/Gerenciador comandas.pdb
+/home/gustavo/Gerenciador comandas/obj/Debug/net8.0/Gerenciador comandas.genruntimeconfig.cache
+/home/gustavo/Gerenciador comandas/obj/Debug/net8.0/ref/Gerenciador comandas.dll
