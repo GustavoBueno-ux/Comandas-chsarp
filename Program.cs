@@ -6,7 +6,7 @@ List<Produto> produtos = new List<Produto>()
     new Produto(3, "Gu Batatas", 9.90m),
     new Produto(4, "Gu Água", 3.00m),
     new Produto(5, "Gu Refri", 6.00m),
-    new Produto(6, "Gu Sorvete", 10.00m)
+    new Produto(6, "Gu Sorvete", 9.00m)
 };
 
 int Id = 1;
